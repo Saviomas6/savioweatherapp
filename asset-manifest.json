@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/savioweatherapp/static/css/main.92f90415.chunk.css",
+    "main.js": "/savioweatherapp/static/js/main.a1fbf56d.chunk.js",
+    "main.js.map": "/savioweatherapp/static/js/main.a1fbf56d.chunk.js.map",
+    "runtime-main.js": "/savioweatherapp/static/js/runtime-main.8325194a.js",
+    "runtime-main.js.map": "/savioweatherapp/static/js/runtime-main.8325194a.js.map",
+    "static/css/2.66e5b2b7.chunk.css": "/savioweatherapp/static/css/2.66e5b2b7.chunk.css",
+    "static/js/2.5bbb1db7.chunk.js": "/savioweatherapp/static/js/2.5bbb1db7.chunk.js",
+    "static/js/2.5bbb1db7.chunk.js.map": "/savioweatherapp/static/js/2.5bbb1db7.chunk.js.map",
+    "static/js/3.0e469373.chunk.js": "/savioweatherapp/static/js/3.0e469373.chunk.js",
+    "static/js/3.0e469373.chunk.js.map": "/savioweatherapp/static/js/3.0e469373.chunk.js.map",
+    "index.html": "/savioweatherapp/index.html",
+    "static/css/2.66e5b2b7.chunk.css.map": "/savioweatherapp/static/css/2.66e5b2b7.chunk.css.map",
+    "static/css/main.92f90415.chunk.css.map": "/savioweatherapp/static/css/main.92f90415.chunk.css.map",
+    "static/js/2.5bbb1db7.chunk.js.LICENSE.txt": "/savioweatherapp/static/js/2.5bbb1db7.chunk.js.LICENSE.txt",
+    "static/media/could.5bee8ff6.png": "/savioweatherapp/static/media/could.5bee8ff6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8325194a.js",
+    "static/css/2.66e5b2b7.chunk.css",
+    "static/js/2.5bbb1db7.chunk.js",
+    "static/css/main.92f90415.chunk.css",
+    "static/js/main.a1fbf56d.chunk.js"
+  ]
+}
